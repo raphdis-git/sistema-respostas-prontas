@@ -16,7 +16,8 @@
     "react-dom": "latest",
     "lucide-react": "latest",
     "tailwindcss": "latest",
-    "@tailwindcss/vite": "latest"
+    "@tailwindcss/vite": "latest",
+    "jszip": "latest"
   },
   "devDependencies": {}
 }
