@@ -17,7 +17,11 @@
     "lucide-react": "latest",
     "tailwindcss": "latest",
     "@tailwindcss/vite": "latest",
-    "jszip": "latest"
+    "jszip": "latest",
+    "@tiptap/react": "latest",
+    "@tiptap/starter-kit": "latest",
+    "@tiptap/extension-underline": "latest",
+    "@tiptap/extension-link": "latest"
   },
   "devDependencies": {}
 }
