@@ -21,7 +21,8 @@
     "@tiptap/react": "latest",
     "@tiptap/starter-kit": "latest",
     "@tiptap/extension-underline": "latest",
-    "@tiptap/extension-link": "latest"
+    "@tiptap/extension-link": "latest",
+    "@supabase/supabase-js": "2.117.2"
   },
   "devDependencies": {}
 }
