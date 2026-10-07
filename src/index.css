@@ -7,3 +7,11 @@ button, input, textarea, select { font: inherit; }
 button { cursor: pointer; }
 .input { width:100%; border:1px solid #cbd5e1; border-radius:.75rem; background:#fff; padding:.75rem 1rem; outline:none; color:#0f172a; }
 .input:focus { border-color:#60a5fa; box-shadow:0 0 0 4px #dbeafe; }
+
+.rich-editor .ProseMirror { min-height: 220px; padding: 1rem; outline: none; line-height: 1.7; }
+.rich-editor .ProseMirror p, .rich-content p { margin: .45rem 0; }
+.rich-editor .ProseMirror ul, .rich-content ul { list-style: disc; padding-left: 1.5rem; margin: .5rem 0; }
+.rich-editor .ProseMirror ol, .rich-content ol { list-style: decimal; padding-left: 1.5rem; margin: .5rem 0; }
+.rich-editor .ProseMirror a, .rich-content a { color: #2563eb; text-decoration: underline; }
+.rich-editor .ProseMirror strong, .rich-content strong { font-weight: 700; }
+.rich-editor .ProseMirror u, .rich-content u { text-decoration: underline; }
