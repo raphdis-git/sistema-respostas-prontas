@@ -15,3 +15,8 @@ button { cursor: pointer; }
 .rich-editor .ProseMirror a, .rich-content a { color: #2563eb; text-decoration: underline; }
 .rich-editor .ProseMirror strong, .rich-content strong { font-weight: 700; }
 .rich-editor .ProseMirror u, .rich-content u { text-decoration: underline; }
+
+.quill-response-editor .ql-toolbar { border-color:#cbd5e1; border-radius:.75rem .75rem 0 0; background:#f8fafc; }
+.quill-response-editor .ql-container { min-height:280px; border-color:#cbd5e1; border-radius:0 0 .75rem .75rem; font-family:inherit; font-size:14px; }
+.quill-response-editor .ql-editor { min-height:280px; line-height:1.7; padding:1rem; }
+.quill-response-editor .ql-editor:focus { background:#fff; }
