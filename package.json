@@ -22,7 +22,8 @@
     "@tiptap/starter-kit": "latest",
     "@tiptap/extension-underline": "latest",
     "@tiptap/extension-link": "latest",
-    "@supabase/supabase-js": "2.117.2"
+    "@supabase/supabase-js": "2.117.2",
+    "quill": "2.0.3"
   },
   "devDependencies": {}
 }
