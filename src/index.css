@@ -20,3 +20,7 @@ button { cursor: pointer; }
 .quill-response-editor .ql-container { min-height:280px; border-color:#cbd5e1; border-radius:0 0 .75rem .75rem; font-family:inherit; font-size:14px; }
 .quill-response-editor .ql-editor { min-height:280px; line-height:1.7; padding:1rem; }
 .quill-response-editor .ql-editor:focus { background:#fff; }
+
+.rich-content p { margin: 0; }
+.rich-content p + p { margin-top: 0; }
+.rich-content br { line-height: inherit; }
